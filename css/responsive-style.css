@@ -1,0 +1,20 @@
+@media only screen and (max-width: 600px){
+    .titleText{
+        font-size: 40px;
+    }
+    .textContent{
+        font-size: 12px;
+    }
+
+    
+
+    #sliderImage{
+        width: 360px;
+    }
+}
+
+@media only screen and (max-width: 1000px){
+    .overlayText{
+        margin-bottom: 5em;
+    }
+}
